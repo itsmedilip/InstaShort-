@@ -1,0 +1,5 @@
+{
+  "name": "Insta Short",
+  "description": "A clean, responsive web app that allows users to paste a long URL and get a shortened version instantly. No sign-up required.",
+  "requestFramePermissions": []
+}
